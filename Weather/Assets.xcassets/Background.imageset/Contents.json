@@ -1,0 +1,32 @@
+{
+  "images" : [
+    {
+      "filename" : "Free  Blue, Sky, Baiyun Background Images, H5 Blue Sky Background Photo Background PNG and Vectors 1.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "Free  Blue, Sky, Baiyun Background Images, H5 Blue Sky Background Photo Background PNG and Vectors.jpeg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "NightWeather.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
